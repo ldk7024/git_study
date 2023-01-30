@@ -10,7 +10,7 @@ public class Daegyo {
 		System.out.println(args[0]);
 		System.out.println(args[1]);
 		System.out.println(args[2]);
-		
+		System.out.println("유진주임님 안녕하세요.");
 	}
 
 }
